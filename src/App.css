@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .app-header {
+    background-color: #2e3192;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-container h1 {
+    margin: 0;
+  }
+  
+  .header-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .header-container li {
+    margin-left: 20px;
+    font-size: 18px;
+  }
+  
+  .main-title {
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .main-title h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .main-video {
+    margin-top: 10px;
+  }
+  
+  .main-video iframe {
+    width: 100%;
+    height: 450px;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .clip-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+  }
+  
+  .clip-item {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .clip-item iframe {
+    width: 100%;
+    height: 200px;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .clip-item h3 {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #2e3192;
+  }
+  
+  .clip-item p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .rating span {
+    color: gold;
+    font-size: 18px;
+  }
+  
+  footer {
+    background-color: #2e3192;
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .footer-container {
+    text-align: center;
+    font-size: 16px;
+  }
+  

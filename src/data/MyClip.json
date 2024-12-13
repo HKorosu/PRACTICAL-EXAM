@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Main Clip",
+      "url": "https://www.youtube.com/embed/your-main-clip-url"
+    },
+    {
+      "id": 2,
+      "name": "My clip 1",
+      "url": "https://www.youtube.com/embed/your-clip1-url"
+    },
+    {
+      "id": 3,
+      "name": "My clip 2",
+      "url": "https://www.youtube.com/embed/your-clip2-url"
+    },
+    {
+      "id": 4,
+      "name": "My clip 3",
+      "url": "https://www.youtube.com/embed/your-clip3-url"
+    },
+    {
+      "id": 5,
+      "name": "My clip 4",
+      "url": "https://www.youtube.com/embed/your-clip4-url"
+    }
+  ]
+  
